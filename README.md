@@ -13,7 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Screenshot
 
-![Profile card component](https://github.com/Bayoumi-dev/Profile-card-component/blob/master/images/screenshot.jpg)
+![Profile card component](https://github.com/Bayoumi-dev/Profile-card-component/blob/master/design/desktop-design.jpg)
 
 ## ⚙ Built with
 
