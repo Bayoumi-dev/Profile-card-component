@@ -122,3 +122,18 @@ section {
   margin-bottom: 5px;
   color: var(--colors-dark-desaturated-blue);
 }
+
+/* Footer */
+footer {
+  width: 100%;
+  font-size: 0.889rem;
+  text-align: center;
+  padding: 6px 0;
+  color: var(--colors-dark-desaturated-blue);
+}
+footer a {
+  color: inherit;
+}
+footer a:hover {
+  color: var(--colors-grayish-blue);
+}
